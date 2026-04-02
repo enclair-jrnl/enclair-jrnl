@@ -1,0 +1,11 @@
+baseURL = "https://enclair-jrnl.github.io/"
+languageCode = "it-IT"
+title = "enclair journal"
+theme = "archie"
+[params]
+mode = "auto" # dark/light mode automatica
+subtitle = "little thoughts"
+math = false
+readtime = true
+[taxonomies]
+tag = "tags"
