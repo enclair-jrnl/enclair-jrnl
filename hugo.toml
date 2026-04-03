@@ -9,3 +9,5 @@ math = false
 readtime = true
 [taxonomies]
 tag = "tags"
+buildFuture = true
+buildDrafts = false
