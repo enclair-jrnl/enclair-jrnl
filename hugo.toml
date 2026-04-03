@@ -10,4 +10,4 @@ readtime = true
 [taxonomies]
 tag = "tags"
 buildFuture = true
-buildDrafts = false
+buildDrafts = true
