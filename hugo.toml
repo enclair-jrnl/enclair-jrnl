@@ -2,12 +2,14 @@ baseURL = "https://enclair-jrnl.github.io/enclair-jrnl/"
 languageCode = "it-IT"
 title = "enclair journal"
 theme = "archie"
-[params]
-mode = "auto" # dark/light mode automatica
-subtitle = "little thoughts"
-math = false
-readtime = true
-[taxonomies]
-tag = "tags"
 buildFuture = true
 buildDrafts = true
+
+[params]
+  mode = "auto"
+  subtitle = "little thoughts"
+  math = false
+  readtime = true
+
+[taxonomies]
+  tag = "tags"
