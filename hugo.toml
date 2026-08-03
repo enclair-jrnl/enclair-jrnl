@@ -10,4 +10,4 @@ buildDrafts = true
   math = false
   readtime = true
 [taxonomies]
-  tag = "tags
+  tag = "tags"
