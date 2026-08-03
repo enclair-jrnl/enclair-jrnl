@@ -1,0 +1,13 @@
+baseURL = "https://enclair-jrnl.github.io/enclair-jrnl/"
+languageCode = "it-IT"
+title = "Il mio journal"
+theme = "archie"
+buildFuture = true
+buildDrafts = true
+[params]
+  mode = "auto"
+  subtitle = "little thoughts"
+  math = false
+  readtime = true
+[taxonomies]
+  tag = "tags
